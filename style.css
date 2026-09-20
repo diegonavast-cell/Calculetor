@@ -1,0 +1,28 @@
+body{
+    background-color: #6c757d;
+}
+
+button{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.caja1{
+    display: flex;
+}
+
+.caja2{
+    display: flex;
+}
+
+.caja3{
+    display: flex;
+}
+
+.caja4{
+    display: flex;
+}
+
+.caja5{
+    display: flex;
+}
