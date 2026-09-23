@@ -46,3 +46,7 @@ input{
 .caja13 {
     margin-left: 600px;
 }
+
+*{
+    margin: 0px;
+}
